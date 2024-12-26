@@ -6,6 +6,10 @@ In this project i used python language to generate the password which in follows
 * Alpabets
 * Numeric
 * And symbols
+_____
+Its made by python language
+
+![build status](http://ForTheBadge.com/images/badges/made-with-python.svg)
 ###  THE CODE
 ```py
 import random
@@ -37,7 +41,11 @@ print(output)
 [![build status](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arasu_pentester/profilecard/?igsh=OHllZW1wczFsdGpu)
 
 ##### buy me a coffee
+UPI ID ;
 
+``` 
+   perarasu9344@oksbi
 
+```
 
 
